@@ -115,6 +115,11 @@ hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
@@ -385,8 +390,8 @@ hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
 
 [[files]]
-file = "mods/effortless.pw.toml"
-hash = "fb15c2081315f5d57a085056246f0f2c221e318bb81564ca631220fea650bb35"
+file = "mods/effortless-building.pw.toml"
+hash = "2fe3ff82d4eee03412655d1c9c1c117c63a15187617c68f3139eaaceffa9a670"
 metafile = true
 
 [[files]]
