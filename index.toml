@@ -5,6 +5,10 @@ file = "config/customtimecycle.json"
 hash = "7c058e9f4b7054548c3050ba0bc8a1dfa070fa97be5e479d16f122a5bf66d57d"
 
 [[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "3ee8e1d84ae88d3426db37882c69a1c47c4b8a9679b5525667f9eb7e5fd67be4"
+
+[[files]]
 file = "global_packs/required_data/sixseventh/data/betternether/recipe/quartz_glass_smelting.json"
 hash = "dce26da386a7fe5063da51d63b9c02b4761406b5d94a38abec8b6c56ae912080"
 
@@ -62,7 +66,7 @@ hash = "db865cd8f47baf6480b7e5152c5abb6a16738756f4923b7370a897c8fbf20d9c"
 
 [[files]]
 file = "global_packs/required_data/sixseventh/data/sixseven/recipe/space_thingy.json"
-hash = "893c5e929589e519d58833030e361489750f3b42f35218085c8dcf1e1f622ff2"
+hash = "cfdcba3e34003e4876d4b94e4913425498d84797b072efa25fa6e3295f22b4a3"
 
 [[files]]
 file = "global_packs/required_data/sixseventh/pack.mcmeta"
