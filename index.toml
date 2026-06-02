@@ -65,6 +65,11 @@ file = "global_packs/required_data/sixseventh/pack.mcmeta"
 hash = "a452c001a600334db719b80ecba7cf1da8ac37a6e966ab721924d1449b638906"
 
 [[files]]
+file = "mods/additional-structures.pw.toml"
+hash = "b3abe4c54a55d9ff6072a783745562dca78eeada24241314b566a52830cfe670"
+metafile = true
+
+[[files]]
 file = "mods/aerowear.pw.toml"
 hash = "a0b366eb0b182b4017ff3f7e99fe23012fad12b48986e79ce7a105275e29593e"
 metafile = true
@@ -237,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/create-mechanical-extruder.pw.toml"
 hash = "d9225b81ab77d2d312cbce47d220fc342179d9081a6a4cf831f36184f6a62258"
+metafile = true
+
+[[files]]
+file = "mods/create-metallurgy.pw.toml"
+hash = "12a90beeb5a46b46dfdc7ba2a5510107fbc60915e6cf1af129d365e20b99ce2d"
 metafile = true
 
 [[files]]
@@ -822,6 +832,21 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "c41f6ccffb66b9095efabea4eda10dd61bdb375cbeccbab638b3c139c1b00161"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "f05197caaa06d6cf3807ae2d81928c4f5eff1336597b863207c6320ab7f2e4b0"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-furniture.pw.toml"
+hash = "e32edf3089c8b5c395fb9665f415254dc0e627dad6ab0dd26d85168b665aa024"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.pw.toml"
+hash = "7389025d1fa215f56e9ecabf6f84e4092271322de1ec28f3a835b9e7b13238bb"
 metafile = true
 
 [[files]]
