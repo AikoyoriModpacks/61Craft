@@ -73,6 +73,14 @@ file = "global_packs/required_data/sixseventh/pack.mcmeta"
 hash = "a452c001a600334db719b80ecba7cf1da8ac37a6e966ab721924d1449b638906"
 
 [[files]]
+file = "global_packs/required_resources/sixoneth/assets/cnbridge/textures/block/dimensional_drive.png"
+hash = "6b8d8fc28f87e719baf339463f266f0970e7739fa9f4c1a8e556de4aed58564f"
+
+[[files]]
+file = "global_packs/required_resources/sixoneth/pack.mcmeta"
+hash = "55753eea0c930ea5c61d4ebb92dcd9e4f969aebea5a0047bda2e2aedf2a19684"
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "b3abe4c54a55d9ff6072a783745562dca78eeada24241314b566a52830cfe670"
 metafile = true
@@ -729,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/quarkponders.pw.toml"
-hash = "13fd3f8fdaa77954a1e3e69061e66cdce63ea144b44e80116cb7314af81136c2"
+hash = "15606a3d97ced1803b6aa5e48d247a44e608d7a5352c405df343823f47f40fd7"
 metafile = true
 
 [[files]]
