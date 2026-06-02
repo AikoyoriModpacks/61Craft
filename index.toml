@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/customtimecycle.json"
+hash = "7c058e9f4b7054548c3050ba0bc8a1dfa070fa97be5e479d16f122a5bf66d57d"
+
+[[files]]
 file = "global_packs/required_data/sixseventh/data/betternether/recipe/quartz_glass_smelting.json"
 hash = "dce26da386a7fe5063da51d63b9c02b4761406b5d94a38abec8b6c56ae912080"
 
@@ -585,6 +589,11 @@ hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
+file = "mods/massweightcompat.pw.toml"
+hash = "85b5050c10b750f76e40a68c2df557f1e389df95ab70a5e103f49747b1fed02a"
+metafile = true
+
+[[files]]
 file = "mods/mechanicals-lib.pw.toml"
 hash = "4e3aaef188d1f975c6ebd539f50021768851f7fc4638079ee72179ec33bf487f"
 metafile = true
@@ -902,4 +911,19 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sophisticated-storages.pw.toml"
+hash = "4e069051ed9caad9723d82fac4c7dd195bf7ba313e3d34108a8ca6519ab889b0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/refined-storage-recreated.pw.toml"
+hash = "fa48e21477d4eee6f28644ca57f280ff8f0d9ad1bf45fbdcd29e73a5895e4c30"
 metafile = true
