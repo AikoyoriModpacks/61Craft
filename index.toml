@@ -571,6 +571,11 @@ hash = "c871c0766027544e93bb805c6a96b92f368c775ebbe275743f17fdeec049068c"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
@@ -666,6 +671,11 @@ hash = "f2d8ed39cf2333191a7195ce9e988db6927b452ffc9911cd30678f209065e31f"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "3e477c97729015ac6184c0b56cb148947b7c0dc5cca764336ee96719f05f05e6"
 metafile = true
@@ -758,6 +768,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "8b68bc0a52bd726f19e8b855d87b7855c60dc243024fc1100ef9894d7abfa6be"
+metafile = true
+
+[[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
 metafile = true
 
 [[files]]
