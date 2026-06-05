@@ -1,0 +1,11 @@
+{
+    "probejs.newGame": false,
+    "probejs.hintsForLLM": false,
+    "probejs.fullScanMods": [
+        "minecraft",
+        "kubejs",
+        "neoforge",
+        "ponderjs",
+        "createjs"
+    ]
+}
