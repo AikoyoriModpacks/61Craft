@@ -1,0 +1,13 @@
+name = "Chestmonster"
+filename = "chestmonster-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pnofH9yk/versions/DrOlTINU/chestmonster-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "f3ef5dc7ad00e84a15050688a62b7bee7109ad2e375946c1590559aa0097aaedd4d5f427498ddedb4352f47b635827ebcba016673825b1009880533f8e7522a8"
+
+[update]
+[update.modrinth]
+mod-id = "pnofH9yk"
+version = "DrOlTINU"
