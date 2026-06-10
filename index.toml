@@ -421,6 +421,11 @@ hash = "967d62bf386e87dc66ebe3dd2d6e1368bd0d0c155cb6f120a37c37802165920c"
 metafile = true
 
 [[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "dd46758c8eb82deb6dcd56a9879dc5e583ff812245ebb357fd79053a60c58871"
+metafile = true
+
+[[files]]
 file = "mods/create-transmission!.pw.toml"
 hash = "f81e4d339828288b77584cce5d0942c058cb68f00e70d623b8b12c6691874e1b"
 metafile = true
@@ -981,6 +986,11 @@ hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
 metafile = true
 
 [[files]]
+file = "mods/trading-post.pw.toml"
+hash = "72c0db4d726a16d80c2337cc9dc4d220ba8298deb5db5d9d58082d15a245ea3f"
+metafile = true
+
+[[files]]
 file = "mods/tuttas-doors.pw.toml"
 hash = "e7a3b93aa1ea3effa5bc20fb04807b393ce5750bc4456d6152d0042c64ca3787"
 metafile = true
@@ -998,6 +1008,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "c41f6ccffb66b9095efabea4eda10dd61bdb375cbeccbab638b3c139c1b00161"
+metafile = true
+
+[[files]]
+file = "mods/unlimited-trading.pw.toml"
+hash = "327c8c4c8952ab10683caa8f7ed656b2abd03b45f0122334167c90aaa231a2ac"
 metafile = true
 
 [[files]]
