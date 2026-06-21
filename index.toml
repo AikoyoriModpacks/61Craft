@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-stabilized.pw.toml"
-hash = "4b46b411ebc6610f0f5477681f91f5e97aa5bce6b5802808f31de277103b4959"
+hash = "bd397410476dacdcd9d69efc8e246d28d9f858cb967192d487bbf71dbdd7d489"
 metafile = true
 
 [[files]]
