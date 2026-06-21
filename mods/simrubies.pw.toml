@@ -1,13 +1,13 @@
 name = "Create Aeronautics: Rubies"
-filename = "simulatedrubies-1.3.1.jar"
+filename = "simulatedrubies-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Iz5e707B/versions/RXzuRQ72/simulatedrubies-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/Iz5e707B/versions/JvjU0oxG/simulatedrubies-1.4.0.jar"
 hash-format = "sha512"
-hash = "6d091796f966b342735e5b383a0f7b9d1c61a705db3f1025de00b77eeb26b5a3e5a3f97a2dc0bceba7ddad97b608c7ffbb6a7085838f4deafc5c1d46c5971c6e"
+hash = "e31dfbea390f44a362751244240c991c68ad55b588b9ca620075b2898de0fd66fedf1c9e7474d42de30e60325330b7f2f78f638e09645492408343555d5101e7"
 
 [update]
 [update.modrinth]
 mod-id = "Iz5e707B"
-version = "RXzuRQ72"
+version = "JvjU0oxG"

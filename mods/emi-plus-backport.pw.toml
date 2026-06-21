@@ -1,13 +1,13 @@
 name = "EMI++ Forked"
-filename = "emixx-neoforge-2.1.3.jar"
+filename = "emixx-neoforge-1.21.1-3.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/N9WucjHL/versions/XGHMzpEx/emixx-neoforge-2.1.3.jar"
+url = "https://cdn.modrinth.com/data/N9WucjHL/versions/Nu5FDXEM/emixx-neoforge-1.21.1-3.1.0.jar"
 hash-format = "sha512"
-hash = "eb020d7062eb45bf6767f78d1bdbda8ba423a4b620017ec0ab6c5f4a3b6a56de3cf0a54f5b909808472d832b787f1afb536a22581b39e34087b8898553546bbd"
+hash = "89a6d938ad9bc1d5f1d8bd867d2d03a2a442a171347a9c76d9e4419c283fd1e6a697168494f9ef9c72f758eb2743fc71dfe9850806979e06b665f3454136ae4e"
 
 [update]
 [update.modrinth]
 mod-id = "N9WucjHL"
-version = "XGHMzpEx"
+version = "Nu5FDXEM"
