@@ -431,6 +431,11 @@ hash = "456af640c5551f9f4e77ca8b15acb6f66620e9a83a014dddc555464c63a7cfa6"
 metafile = true
 
 [[files]]
+file = "mods/create-smart-bounds.pw.toml"
+hash = "7e6cdbf3b08697812e6954426b5e1aa8f3159d48e5b63913d2814a54f62d52dc"
+metafile = true
+
+[[files]]
 file = "mods/create-sophisticated-backpacks-compat.pw.toml"
 hash = "79d7cf09cdc88b8e64cb684be60efe938193ee13d8a64fc31e3ad1ae622bf4af"
 metafile = true
@@ -583,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "14294d70698ca8153d87de2f8ec2bb46675ebdf6c576d6745470900e35d08de4"
+metafile = true
+
+[[files]]
+file = "mods/extra-gauges.pw.toml"
+hash = "635b8380894bc7c050deeb426f3e5947b27bda821a616b0ef6a757ae729e96b8"
 metafile = true
 
 [[files]]
